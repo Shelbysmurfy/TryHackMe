@@ -36,7 +36,15 @@ Nos conectamos como lennie con las contraseña obtenida anteriormente.
 
 ![image](https://github.com/user-attachments/assets/1a447deb-2d9a-40d7-9286-d413da01da0a)
 
-Hacemos un find para encontrar archivos que tengan como grupo lennie.
+En el directorio lennie encontramos 3 archivos.
+
+![image](https://github.com/user-attachments/assets/78b126e9-3a79-4a0f-9822-b796f00b583c)
+
+Abrimos el planner.sh, y vemos que tiene pinta que es una tarea cron.
+
+![image](https://github.com/user-attachments/assets/ad2f92a7-2bd4-4ab7-9cf3-624b6415b722)
+
+Hacemos un find para encontrar archivos que tengan como grupo lennie para así saber si podemos editarlos, y vemos que el mismo archivo que había antes en la posible tarea cron también esta aquí.
 
 ![image](https://github.com/user-attachments/assets/2b6c27b2-8f8f-49dd-99a1-b5e16e085570)
 
@@ -48,7 +56,7 @@ Vamos a ver el contenido del archivo que hemos encontrado.
 
 Hacemos una reverse shell y ya somos root.
 
-![image](https://github.com/user-attachments/assets/9384789c-ac3c-49a0-9ad1-9dc79b236d85)
+![image](https://github.com/user-attachments/assets/58e35421-854b-45fd-b7de-a7fe618ee33c)
 
 ### What are the contents of root.txt?
 
