@@ -25,3 +25,7 @@ Si probamos a encriptar otros números como el 0, que va antes del 1, y que no e
 Y si ahora introducimos el hash en la url, nos devuelve la flag que buscamos.
 
 ![image](https://github.com/user-attachments/assets/7445b2b0-e5ab-4055-96c1-11c9457a4519)
+
+### What is the flag?
+
+![image](https://github.com/user-attachments/assets/d8e6c725-11d0-47de-85a6-c634c0be81ed)
